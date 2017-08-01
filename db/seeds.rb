@@ -24,3 +24,5 @@ Picture.create(
   artist: 'John Wilhelm',
   url:    'http://bitmakerlabs.s3.amazonaws.com/photogur/girl.jpg'
 )
+
+abby = User.create( email: 'abbywilson@gmail.com', password: 'abbywilson')
